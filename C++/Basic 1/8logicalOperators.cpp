@@ -1,4 +1,4 @@
-/* Logical Operators and his meanings"
+/* Logical Operators and their meanings"
 
 && - and
 || - or
