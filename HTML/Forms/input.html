@@ -6,7 +6,7 @@
     </head>
     <body>
 
-        <form method="POST">
+        <form action="submit.html" method="POST">
 
             <h1>Safe Login</h1>            
 
@@ -19,6 +19,40 @@
   <h3>Your age</h3>
   <label for="age">Put your age here</label>
   <input type="number" id="age" value="10">
+  <h3>Choose performance</h3>
+  <span>Lower</span>
+  <input type="range" max="10" min="0" step="1">
+  <span>Higher</span>
+  <h3>Choose databases</h3>
+  <input id="fire" type="checkbox">
+  <label for="fire">Firestore</label>
+  <input id="mongo" type="checkbox">
+  <label for="mongo">MongoDB</label>
+  <h3>Are you dumb?</h3>
+  <input id="yes" name="o" type="radio" value="yes">
+  <label for="yes">Yes</label>
+  <input id="no" name= "o" type="radio" value="no">
+  <label for="no">No</label>
+  <h3>Are you dumb? 😆</h3>
+  <select id="dumbo" name="dumbo">
+    <option>Yes</option>
+    <option>No</option>
+ </select>
+ <h3>Are you dUmB?</h3>
+
+ <input list="dumbbb">
+
+ <datalist id="dumbbb">
+ <option value="Yes"></option>
+ <option value="No"></option>
+ <option value="I SAID NO"></option>
+ </datalist>
+
+ <h3>What do you think about being dumb?</h3>
+ <textarea rows="7" cols="40">Write your dumb experience here</textarea>
+
+ <br>
+ <input type="submit" value="CLICK">
 
 </form>
        
@@ -35,6 +69,17 @@ password -> ******
 number -> 2, 423, 2 ^ etc | we need to do step="number" to create a step
 name is the input name type
 value is the default value
+range -> a bar like a volume bar 
+<input min="0" max="5" type="range" id="eh" name="eh" step="0.5">
+min is the min
+max is the max
+step is the "step"
+<span>we can use this</span>
+checkbox -> makes a checkbox
+radio -> you can only choose 1 answer | for the program knows where we add the same name
+when using 2 or more options
+<input id="yes" name="oo" type="radio">
+<input id="no" name="oo" type="radio">
 
 <label> adds a information
 <label for="crazy id">Username?</label>
@@ -42,6 +87,32 @@ we put the id in the for for example,
 
 <input type="text" name="username" value="Enter Username", id= "wow">
 <label for="wow">Text?</label>
+
+
+we can make a selection
+<select id="bun" name="bun">
+<option value="sesame">Sesame</option>
+<option value="potato">Potato</option>
+<option value="pretzel">Pretzel</option>
+</select>
+
+ <input list="id name">
+
+ <datalist id="id name">          this makes another type of selection which you can write too
+ <option value="Yes"></option>
+ <option value="No"></option>
+ <option value="Maybe"></option>
+ </datalist>
+
+ <textarea rows="7" cols="40">Text here!</textarea>
+ Makes an area where you can write
+
+ rows - rows (make the size)
+ cols - columns (make the size)
+
+
+ <input type="submit" value="Save here"> -> makes the submit button
+ NOTE: this will execute the html provided in the action zone in <form> 
 
 
 -->
