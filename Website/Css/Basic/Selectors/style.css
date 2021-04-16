@@ -1,0 +1,25 @@
+/*
+a[href*='seoul'] {
+  color: lightpink;
+} gets the thing which href ends with seoul
+*/
+
+/* If we want to be more specific: */
+
+h1.special { /* A h1 with class "special"*/
+    font-family: Tahoma;
+}
+
+/* and with nested? look this example */
+ul li a.example {
+    background-color: blue;
+} 
+
+/* Joined in ul li a and took the one whose class is "example" */
+
+/* Other nested example */
+
+.nested li a {
+    color: greenyellow
+}
+

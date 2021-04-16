@@ -1,0 +1,11 @@
+/* Having everything by types isn't good, so we can use classes for that
+<p class="cheese">Classes!</p>
+the class is cheese so we do .cheese to use css on it*/
+
+.cheese {
+    color: gold;
+} /* let's mix so we will do <p class="big cheese">A</p> 
+it will take .cheese and .big */
+.big {
+    background-color: plum;
+}

@@ -1,0 +1,8 @@
+/* Having everything by types isn't good, so we can use classes for that
+<p id="cheese">Ids!</p>
+the class is cheese so we do .cheese to use css on it*/
+
+#cheese {
+    color:fuchsia;
+} /* let's mix so we will do <p id="cheese">A</p> 
+it will take .cheese and .big */

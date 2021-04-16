@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/CannonStealth/Notes#readme",
   "dependencies": {
+    "cdhandler": "^1.0.1",
     "dns": "^0.2.2",
     "hkutilities": "^3.1.6",
     "node-fetch": "^2.6.1",

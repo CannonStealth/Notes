@@ -1,0 +1,10 @@
+p {
+     /* 
+     The element type is p, which comes from the HTML <p> tag.
+     Useful notes on the type selector:
+     The type selector does not include the angle brackets.
+     Since element types are often referred to by their opening tag name,
+     the type selector is sometimes referred to as the tag name or element selector. */
+    color: green;
+  }
+    
