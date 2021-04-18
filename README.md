@@ -1,3 +1,4 @@
+<img src="https://socialify.git.ci/CannonStealth/Notes/image?forks=1&issues=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark">
 # Programmers Notes
 
 A repository for the people who want to start coding or want to refresh their language knowledge.
