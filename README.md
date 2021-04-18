@@ -13,19 +13,23 @@ This repository contains:
 - [x] Java Notes
 - [X] Express Notes
 - [X] C++ Notes
+- [X] PHP Notes
+- [X] Go Notes
+- [X] C# Notes
+
 
 ## Link to the Notes
 
-- [Background](#background)
-- [Install](#install)
-- [Usage](#usage)
-- [Generator](#generator)
-- [Badge](#badge)
-- [Example Readmes](#example-readmes)
-- [Related Efforts](#related-efforts)
-- [Maintainers](#maintainers)
-- [Contributing](#contributing)
-- [License](#license)
+- [HTML](#background)
+- [CSS](#install)
+- [JS](#usage)
+- [React](#generator)
+- [Java](#badge)
+- [Express](#example-readmes)
+- [C++](#related-efforts)
+- [PHP](#maintainers)
+- [Go](#contributing)
+- [C#](#license)
 
 The goals of the repository are :
 1. This repository is a good place for people starting to code a language as they can clear their basics here.
