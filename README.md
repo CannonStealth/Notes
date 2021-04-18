@@ -20,14 +20,14 @@ This repository contains:
 
 ## Link to the Notes
 
-- [HTML](#background)
-- [CSS](#install)
-- [JS](https://github.com/CannonStealth/Notes/tree/main/Java%20-%20Js/Javascript)
-- [React](#generator)
+- [HTML](https://github.com/CannonStealth/Notes/tree/main/Website/HTML)
+- [CSS](https://github.com/CannonStealth/Notes/tree/main/Website/Css)
+- [JS](https://github.com/CannonStealth/Notes/tree/main/Java%20-%20Js/JavaScript)
+- [React](https://github.com/CannonStealth/Notes/tree/main/Website/React)
 - [Java](https://github.com/CannonStealth/Notes/tree/main/Java%20-%20Js/Java)
-- [Express](#example-readmes)
-- [C++](#related-efforts)
-- [PHP](#maintainers)
+- [Express](https://github.com/CannonStealth/Notes/tree/main/Website/Backend/Express)
+- [C++](#rel)
+- [PHP](https://github.com/CannonStealth/Notes/tree/main/Website/PHP)
 - [Go](#contributing)
 - [C#](#license)
 
