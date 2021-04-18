@@ -28,8 +28,8 @@ This repository contains:
 - [Express](https://github.com/CannonStealth/Notes/tree/main/Website/Backend/Express)
 - [C++](https://github.com/CannonStealth/Notes/tree/main/Systems/C++)
 - [PHP](https://github.com/CannonStealth/Notes/tree/main/Website/PHP)
-- [Go](https://github.com/LejhandGamingYT/Notes/tree/main/Systems/Go)
-- [C#](https://github.com/LejhandGamingYT/Notes/tree/main/Systems/C#)
+- [Go](https://github.com/CannonStealth/Notes/tree/main/Systems/Go)
+- [C#](https://github.com/CannonStealth/Notes/tree/main/Systems/C#)
 
 The goals of the repository are :
 1. This repository is a good place for people starting to code a language as they can clear their basics here.
