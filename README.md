@@ -29,7 +29,7 @@ This repository contains:
 - [C++](https://github.com/CannonStealth/Notes/tree/main/Systems/C++)
 - [PHP](https://github.com/CannonStealth/Notes/tree/main/Website/PHP)
 - [Go](https://github.com/CannonStealth/Notes/tree/main/Systems/Go)
-- [C#](https://github.com/CannonStealth/Notes/tree/main/Systems/C#)
+- [C#](https://github.com/CannonStealth/Notes/tree/main/Systems/C%23)
 
 The goals of the repository are :
 1. This repository is a good place for people starting to code a language as they can clear their basics here.
