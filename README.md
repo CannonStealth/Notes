@@ -22,14 +22,14 @@ This repository contains:
 
 - [HTML](https://github.com/CannonStealth/Notes/tree/main/Website/HTML)
 - [CSS](https://github.com/CannonStealth/Notes/tree/main/Website/Css)
-- [JS](https://github.com/CannonStealth/Notes/tree/main/Java%20-%20Js/JavaScript)
+- [JS](https://github.com/CannonStealth/Notes/tree/main/JavaScript)
 - [React](https://github.com/CannonStealth/Notes/tree/main/Website/React)
-- [Java](https://github.com/CannonStealth/Notes/tree/main/Java%20-%20Js/Java)
+- [Java](https://github.com/CannonStealth/Notes/tree/main/Java)
 - [Express](https://github.com/CannonStealth/Notes/tree/main/Website/Backend/Express)
 - [C++](https://github.com/CannonStealth/Notes/tree/main/Systems/C++)
 - [PHP](https://github.com/CannonStealth/Notes/tree/main/Website/PHP)
-- [Go](https://github.com/LejhandGamingYT/Notes/tree/main/Systems/Go)
-- [C#](https://github.com/LejhandGamingYT/Notes/tree/main/Systems/C#)
+- [Go](https://github.com/CannonStealth/Notes/tree/main/Systems/Go)
+- [C#](https://github.com/CannonStealth/Notes/tree/main/Systems/C%23)
 
 The goals of the repository are :
 1. This repository is a good place for people starting to code a language as they can clear their basics here.
