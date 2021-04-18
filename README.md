@@ -42,4 +42,3 @@ Feel free to dive in! [Open an issue](https://github.com/CannonStealth/Notes/iss
 ### Contributors
 
 This project exists thanks to all the people who contribute. 
-<a href="https://github.com/CannonStealth/Notes/graphs/contributors"><img src="https://opencollective.com/Notes/contributors.svg?width=890&button=false" /></a>
