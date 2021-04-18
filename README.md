@@ -22,9 +22,9 @@ This repository contains:
 
 - [HTML](#background)
 - [CSS](#install)
-- [JS](#usage)
+- [JS](https://github.com/CannonStealth/Notes/tree/main/Java%20-%20Js/Javascript)
 - [React](#generator)
-- [Java](#badge)
+- [Java](https://github.com/CannonStealth/Notes/tree/main/Java%20-%20Js/Java)
 - [Express](#example-readmes)
 - [C++](#related-efforts)
 - [PHP](#maintainers)
