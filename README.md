@@ -22,9 +22,9 @@ This repository contains:
 
 - [HTML](https://github.com/CannonStealth/Notes/tree/main/Website/HTML)
 - [CSS](https://github.com/CannonStealth/Notes/tree/main/Website/Css)
-- [JS](https://github.com/CannonStealth/Notes/tree/main/Java%20-%20Js/JavaScript)
+- [JS](https://github.com/CannonStealth/Notes/tree/main/JavaScript)
 - [React](https://github.com/CannonStealth/Notes/tree/main/Website/React)
-- [Java](https://github.com/CannonStealth/Notes/tree/main/Java%20-%20Js/Java)
+- [Java](https://github.com/CannonStealth/Notes/tree/main/Java)
 - [Express](https://github.com/CannonStealth/Notes/tree/main/Website/Backend/Express)
 - [C++](https://github.com/CannonStealth/Notes/tree/main/Systems/C++)
 - [PHP](https://github.com/CannonStealth/Notes/tree/main/Website/PHP)
