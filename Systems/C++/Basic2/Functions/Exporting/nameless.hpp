@@ -1,0 +1,1 @@
+int myFunction(int number); // We declare it here in a .hpp file
