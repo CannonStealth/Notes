@@ -1,4 +1,6 @@
-public class Main {
+package Java.Functions;
+
+class b {
   static void inbuiltfunc() {
     System.out.println("The functions are");
   }

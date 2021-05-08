@@ -1,4 +1,6 @@
-class Loops {
+package Java.Loops;
+
+class Loop {
   public static void main(String[] args) {
     //INT I IS THE START NUMBER OF THE LOOP
     //THE SECOND PART IS THE LIMIT UNTIL THE LOOP SHOULD BE RUN

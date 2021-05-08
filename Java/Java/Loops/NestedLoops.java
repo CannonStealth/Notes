@@ -1,4 +1,6 @@
-class Loops {
+package Java.Loops;
+
+class Nested {
   public static void main(String[] args) {
 
     //INITIALIZATION OF CONDITION OF LOOP
@@ -37,7 +39,7 @@ Week : 7
  Day : 1
  Day : 2
  Day : 3
-/*
+*/
 
 //THE LOOP WILL RUN 7*3 + 7*1 = 28 TIMES
 //21 TIMES THE NESTED VARIABLE LOOP WILL RUN

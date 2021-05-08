@@ -1,7 +1,10 @@
 //FUNCTION OVERLOADING
+package Java.Functions;
+
+class c {
 static int addition(int x, int y) {
   return x + y;
-}
+};
 
 //EXECUTING THE FUNCTION
 public static void main(String[] args) {
@@ -11,3 +14,5 @@ public static void main(String[] args) {
 
 //OUTPUT
 //13
+
+}

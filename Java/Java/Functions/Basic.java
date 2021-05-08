@@ -1,5 +1,6 @@
-//BASIC JAVA
-public class Main {
+// BASIC JAVA
+package Java.Functions;
+class a {
   //CALL A NEW METHOD
   static void BasicJava() {
     //CODE INSIDE THE FUNCTION

@@ -1,4 +1,6 @@
-class Loops {
+package Java.Loops;
+
+class WhileLoops {
   public static void main(String[] args) {
     //VARIABLE IS DECLARED BEFORE THE LOOP
     int i = 0;

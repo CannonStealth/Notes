@@ -1,8 +1,10 @@
 //IMPORT SCANNER CLASS
+package Java.Basic2;
 import java.util.Scanner;
 
 
-class Basic2 {
+
+class ScannerInput {
   public static void main(String[] args) {
     //CREATE SCANNER OBJECT
     Scanner ob = new Scanner(System.in);
@@ -13,6 +15,8 @@ class Basic2 {
     String userName = ob.nextLine();
     //PRINT THE USERNAME
     System.out.println("Username is: " + userName);
+
+    ob.close(); // CLOSE
   }
 }
 

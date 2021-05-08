@@ -1,5 +1,6 @@
-public class Patterns  
-  {   
+package Java.Loops.Patterns;
+
+class Patterns {   
     public static void main(String args[])   
     {  
       //INITIALIZATION OF NESTED LOOPS 

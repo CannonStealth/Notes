@@ -1,3 +1,5 @@
+package Java.Loops;
+
 class Loops {
   public static void main(String[] args) {
     //VARIABLE IS DECLARED BEFORE THE LOOP
