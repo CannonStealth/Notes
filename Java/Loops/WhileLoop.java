@@ -1,4 +1,4 @@
-package Java.Loops;
+package Loops;
 
 class WhileLoops {
   public static void main(String[] args) {

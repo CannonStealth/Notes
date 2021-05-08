@@ -1,6 +1,6 @@
-package Java.Loops;
+package Loops;
 
-class Loops {
+class Looops {
   public static void main(String[] args) {
     //VARIABLE IS DECLARED BEFORE THE LOOP
     int i = 0;
