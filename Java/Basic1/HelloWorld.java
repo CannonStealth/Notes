@@ -1,4 +1,4 @@
-package Basic1; 
+package Java.Basic1;
 // If it is in a folder make sure to add this package <folder name>[.folder2name]
 public class HelloWorld { // File name
     public static void main(String[] args) {

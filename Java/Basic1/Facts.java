@@ -1,5 +1,5 @@
 // run this or read the comments
-package Basic1;
+package Java.Basic1;
 
 public class Facts {
     public static void main(String[] args) {

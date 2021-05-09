@@ -1,4 +1,4 @@
-package Loops;
+package Java.Loops;
 
 class Looops {
   public static void main(String[] args) {

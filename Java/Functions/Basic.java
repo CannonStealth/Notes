@@ -1,5 +1,5 @@
 // BASIC JAVA
-package Functions;
+package Java.Functions;
 class a {
   //CALL A NEW METHOD
   static void BasicJava() {

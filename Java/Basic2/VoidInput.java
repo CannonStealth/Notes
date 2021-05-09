@@ -1,4 +1,4 @@
-package Basic2;
+package Java.Basic2;
 class VoidInput {
   //PUT THE VARIABLES THAT YOU WANT TO TAKE AS INPUT
   public static void main(int a,int b) {

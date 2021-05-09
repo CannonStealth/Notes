@@ -1,4 +1,4 @@
-package Basic1;
+package Java.Basic1;
 
 public class Whitespace {
 

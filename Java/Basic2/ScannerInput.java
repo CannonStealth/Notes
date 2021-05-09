@@ -1,5 +1,5 @@
 //IMPORT SCANNER CLASS
-package Basic2;
+package Java.Basic2;
 import java.util.Scanner;
 
 

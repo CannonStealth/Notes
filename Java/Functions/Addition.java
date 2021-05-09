@@ -1,5 +1,5 @@
 //FUNCTION OVERLOADING
-package Functions;
+package Java.Functions;
 
 class c {
 static int addition(int x, int y) {

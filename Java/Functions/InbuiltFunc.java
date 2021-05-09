@@ -1,4 +1,4 @@
-package Functions;
+package Java.Functions;
 
 class b {
   static void inbuiltfunc() {
