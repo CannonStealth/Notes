@@ -33,6 +33,22 @@ fun main() {
         println("false is false")
     }
 
+    /*
+    if (yes) {
+
+    } else {
+        if (no) {
+
+        }
+    } we can use else if instead
+    
+    if (yes) {
+
+
+    } else if (no) {
+        
+    }*/
+
     // other ways
 
     if (true) println("Yes")
@@ -40,4 +56,8 @@ fun main() {
     
     if (false) println("No")
     else println("Yep")
+
+    if (5 < 3 || 4 < 5) println("Hehe")
+    if (!false) println("Hoho")
+    if (5 < 3 && 4 > 5) println("Haha")
 }
