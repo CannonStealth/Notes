@@ -1,3 +1,4 @@
+import random # we will see this used at the end
 """
 Numeric types in python:
 
@@ -13,7 +14,7 @@ x = 8 #int
 y = 20.3 #float
 z = 1j #complex
 
-print (x, y, z)
+print(x, y, z)
 
 print(type(x))
 print(type(y))
@@ -33,5 +34,5 @@ print(type(c))
 #Random numbers
 print("Random number")
 
-import random #first i need to import var to make the random number
+# we imported the built-in random library for this
 print(random.randrange(1,10)) #first i get the random var and later i put the random range

@@ -15,3 +15,11 @@ else:
 #The bool() function allows you to evaluate any value, and give you True or False in return
 print(bool("Hello"))
 print(bool(15))
+
+# In the eyes of the python interpreter, everything put into bool() (or used as an if condition) will be True
+# with these exceptions, ALL of which return False:
+#   None
+#   False
+#   0 (in any numeric type)
+#   Empty lists, tuples, strigs, dicts, sets
+#   Custom objects that implement __bool__ or __len__ to return False or 0 repsectively

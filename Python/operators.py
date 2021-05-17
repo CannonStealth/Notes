@@ -33,9 +33,9 @@ Operator Example Same As
 "or"	Returns True if one of the statements is true	x < 5 or x < 4	
 "not"	Reverse the result, returns False if the result is true	not(x < 5 and x < 10)
 "is" Returns True if both variables are the same object	x is y	
-"is" not	Returns True if both variables are not the same object	x is not y
+"is not" - compound operator of "is" and "not" Returns True if both variables are not the same object	x is not y
 "in" 	Returns True if a sequence with the specified value is present in the object	x in y	
-"not" in	Returns True if a sequence with the specified value is not present in the object	x not in y
+"not in" - compound operator of "not" and "in" Returns True if a sequence with the specified value is not present in the object	x not in y
 & 	AND	Sets each bit to 1 if both bits are 1
 |	OR	Sets each bit to 1 if one of two bits is 1
  ^	XOR	Sets each bit to 1 if only one of two bits is 1
