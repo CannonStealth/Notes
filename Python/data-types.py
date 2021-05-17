@@ -10,51 +10,53 @@ Binary Types:	bytes, bytearray, memoryview
 
 #Getting data types
 intv = 5
-print (type(intv))
+print(type(intv))
 
 strv = "This is a string"
-print (type(strv))
+print(type(strv))
 
 floatv = 20.5
-print (type(floatv))
+print(type(floatv))
 
 complexv = 1j
-print (type(complexv))
+print(type(complexv))
 
 listv = ["hello", "iahooo", "ame ame ame"]
-print (type(listv))
+print(type(listv))
 
 tuplev = ["hello", "iahooo", "ame ame ame"]
-print (type(tuplev))
+print(type(tuplev))
 
 rangev = range(6)
-print (type(rangev))
+print(type(rangev))
 
 dictv = {"name" : "Yuuki", "age" : 57}
-print (type(dictv))
+print(type(dictv))
 
 #setv = {"apple", "banana", "cherry"}
-#print (type(setv))
+#print(type(setv))
 
 frozensetv = frozenset({"apple", "banana", "cherry"})
-print (type(frozensetv))
+print(type(frozensetv))
 
 boolv = True
-print (type(boolv))
+print(type(boolv))
 
 boolv = False
-print (type(boolv))
+print(type(boolv))
 
 bytesv = b"Hello"
-print (type(bytesv))
+print(type(bytesv))
 
 bytearrayv = bytearray(5)
-print (type(bytearrayv))
+print(type(bytearrayv))
 
 memoryviewv = memoryview(bytes(5))
-print (type(memoryviewv))
+print(type(memoryviewv))
 
 #Setting a specific data type
 
 x = str("Hello World") #here i say that "Hello World" is a string
 x = int(20) #here i say that 20 it is a integer
+
+# Both of those were pretty useless though...

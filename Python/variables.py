@@ -4,9 +4,11 @@ x = 5
 y = "Yuuki"
 
 #Variables can be printed
-print (x)
+print(x)
+print(y)
 
-print (y)
+# swapping variables
+x, y = y, x
 
 #Working Variables
 myVariable = "Hi!"
@@ -25,25 +27,25 @@ my-var = 10
 
 q, w, e = "letraQ", "letraW", "letraE"
 
-print (q, w, e)
+print(q, w, e)
 
 #Output variables
 
 a = "music"
 
-print ("Yuuki likes " + a)
+print("Yuuki likes " + a)
 
 p = "text can be "
 o = "joined"
 
-print (p + o)
+print(p + o)
 
 #Global Variables
 
 globalVariable = "This is a global variable!" #Variables created outside are global variables
 
 def myfunction(): #The global variables can be used anywhere!
-    print ("-" + globalVariable)
+    print("-" + globalVariable)
 
 myfunction()
 
@@ -52,11 +54,11 @@ myVariable1 = "Awesome"
 def myfunc():
     myVariable1 = "fantastic" #this variable overwrites the "myvariable1"
     #This is a local variable that it will only work inside this funcion
-    print ("Programming is " + myVariable1)
+    print("Programming is " + myVariable1)
 
 myfunc()
 
-print ("Programming is " + myVariable1)
+print("Programming is " + myVariable1)
 
 
 #Global keyword
@@ -67,7 +69,7 @@ def globalfunction():
 
 globalfunction()
 
-print ("Python is " + x)
+print("Python is " + x)
 
 x = "awesome" #Here i define a new variable
 
@@ -86,8 +88,8 @@ def myfunction2():
     global a
     a = "part 2"
 
-print (a)
+print(a)
 #The first print dind't get the part 2 because i didn't named the function
 myfunction2() 
 
-print (a)
+print(a)

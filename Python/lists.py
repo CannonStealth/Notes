@@ -17,5 +17,9 @@ print(CombinedList)
 print(type(list1)) #<class 'list'>
 
 
-thislist = list(("apple", "banana", "cherry")) # note the double round-brackets
+thislist = list(("apple", "banana", "cherry"))
+# note the double round-brackets
+# that is called a tuple, which is an immutable list
+# all arguments to a function are TECHNICALLY tuples
+# BUT using the parentheses makes the tuple one argument rather than all the arguments
 print(thislist)
