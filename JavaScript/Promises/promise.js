@@ -1,23 +1,26 @@
-// Just an example from codecademy
+// a Promise is a holder for a value that will be known later
+// you can create promises from the Promise constructor
+// you can use their results with async/await or .then/.catch
 
-const inventory = {
-  sunglasses: 1900,
-  pants: 1088,
-  bags: 1344
-};
+// promises can be very useful to return values from callbacks
+// here is an example of how you can promisify the browser geolocation API
 
-
-const myExecutor = (resolve, reject) => {
-  const { sunglasses, pants, bags } = inventory;
-
-  if (sunglasses > 0) {
-    resolve('Sunglasses order processed.')
-  } else reject('That item is sold out.')
+function getLocation() {
+    return new Promise((resolve, reject) => {
+        window.navigator.geolocation.getCurrentPosition(
+            (pos) => resolve(pos),
+            (err) => reject(err)
+        );
+    });
 }
 
-const orderSunglasses = () => { 
-  return new Promise(myExecutor)
-  }
+// async/await (good) syntax
+try {
+    const position = await getLocation();
+    console.log(position);
+} catch (err) {
+    console.error(err);
+}
 
-  const orderPromise = orderSunglasses()
-  console.log(orderPromise)
+// then/catch (bad) syntax
+getLocation().then(console.log).catch(console.error);
