@@ -1,0 +1,64 @@
+.box {
+    background-color: rgb(0, 13, 87);
+    min-width: 80px;
+    max-width: 120px;
+    height: 130px;
+    color:aliceblue;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 1px 2px 3px 4px;
+    margin: 0 auto;
+    
+}
+
+.pad {
+    padding: 4px;
+    margin-left: 10px;
+}
+
+
+/*
+width - horizontal size
+height - vertical size
+px = pixels
+
+border adds a border
+Usage:
+border: width (number of pixels / thin / medium / thick) style (none / dotted / solid / others) color
+
+others styles list: https://developer.mozilla.org/en-US/docs/Web/CSS/border-style#values
+
+border-radios - makes the cornors circles
+
+padding is the space between a picture and the frame surrounding
+
+there are some padding properties 
+
+padding-top
+padding-right
+padding-bottom
+padding-left
+
+you can add more than one parameter. They correspond to the amount of padding on each side, in a clockwise rotation.
+
+margin makes what it says, and we can do 
+
+margin-top
+margin-right
+margin-bottom
+margin-left
+
+you can add more than one parameter. They correspond to the amount of padding on each side, in a clockwise rotation.
+
+we can also use
+margin: 0 auto              which will center
+The 0 sets the top and bottom margins to 0 pixels
+for this we need a width otherwise the width is full and won't work properly in some devices
+
+
+Because a web page can be viewed through displays of differing screen size, the content on the web page can suffer from those changes in size.
+To avoid this problem, there are two properties that can limit how narrow or how wide an element’s box can be sized to:
+
+min-width — ensures a minimum width of an element’s box.
+max-width — ensures a maximum width of an element’s box.
+*/

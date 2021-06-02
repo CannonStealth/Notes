@@ -1,0 +1,33 @@
+body {
+    background-image: url("image.png");
+}
+
+p {
+    opacity: 1 !important;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+    color:rgb(0, 22, 82);
+    background-color: rgb(149, 204, 255);
+    opacity: 0.8;
+}
+
+/* 
+font-family changes what it says
+font-size makes what it says
+px = pixels
+font-weight controls how bold or thin text appears. (bold / normal)
+text-align aligns the text (left, right, center, justify)
+justify spaces out text in order to align with the right and left side of the parent element
+background-color does what it says
+color does what it says
+opacity sets the transperence
+background-image sets the background image 
+url() is always needed in background-image we can use a link or a path
+
+!important will override any style
+*/
