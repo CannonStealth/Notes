@@ -34,3 +34,6 @@ if "applee" in thislist:
 else:
     print("I havent found your search")
 
+
+thislist[-2] = "watermelon" # changes melon to watermelon
+print(thislist)

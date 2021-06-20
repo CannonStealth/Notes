@@ -1,0 +1,3 @@
+{ 
+    "python.autoComplete.extraPaths": ["./path-to-your-code"]
+}

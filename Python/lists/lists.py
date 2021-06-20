@@ -23,3 +23,11 @@ thislist = list(("apple", "banana", "cherry"))
 # all arguments to a function are TECHNICALLY tuples
 # BUT using the parentheses makes the tuple one argument rather than all the arguments
 print(thislist)
+
+
+two_d_list = [["me", 4], ["you", 12]]
+
+print(two_d_list[0][0], two_d_list[0][1]) # me 4
+
+two_d_list[0][0] = "not me"
+print(two_d_list[0][0]) # not me

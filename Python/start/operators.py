@@ -1,4 +1,4 @@
-#There are different types of operatos
+#There are different types of operators
 
 print (10 + 8) #Sum
 print (10 - 8) #Substraction
@@ -7,6 +7,7 @@ print (10 / 8) #Division
 print (10 % 5) #Modulus
 print (10 ** 5) #Exponentation
 print (10 // 8) #Floor divisions
+
 
 """
 ==	Equal	x == y	

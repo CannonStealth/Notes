@@ -14,6 +14,7 @@ p {
     color:rgb(0, 22, 82);
     background-color: rgb(149, 204, 255);
     opacity: 0.8;
+    visibility: visible;
 }
 
 /* 
@@ -30,4 +31,17 @@ background-image sets the background image
 url() is always needed in background-image we can use a link or a path
 
 !important will override any style
+
+visibility does what it says:
+hidden — hides an element.
+visible — displays an element.
+collapse — collapses an element.
+
+
+
+In the default box model, box dimensions are affected by border thickness and padding.
+The box-sizing property controls the box model used by the browser.
+The default value of the box-sizing property is content-box.
+The value for the new box model is border-box.
+The border-box model is not affected by border thickness or padding.
 */

@@ -2,3 +2,7 @@
 *.exe
 *.jar
 *.pdb
+package.json
+package-lock.json
+*.ts
+node_modules
